@@ -48,4 +48,4 @@ Contributions are welcome! If you find a bug or have a feature request, please s
 
 
 ## Authors
-Shahriar Islam
+Shahriar Islam - A Cyber Entrepreneur and Journalist
