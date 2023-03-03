@@ -30,7 +30,7 @@ The application is developed using HTML, CSS, and JavaScript. It is hosted on Gi
 
 ## Example
 
-## To perform addition:
+### To perform addition:
 
 * Enter the first number in the input field: 3
 
